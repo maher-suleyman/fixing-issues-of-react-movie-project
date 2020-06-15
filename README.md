@@ -2,9 +2,11 @@
 Fixing issues of 'React Movie Project' for Re:Coded bootcamp-istanbul-2020-mar
 
 # The issues that need to be fixed are:
+=======================================
 1- Making the trailers show up in a row.
 2- Fixing the images with the cast not showing up.
-3- Add related movies.
+3- Adding related movies.
+
 
 
 # The original project before fixing the issues:
