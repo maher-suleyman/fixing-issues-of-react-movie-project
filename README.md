@@ -13,7 +13,10 @@ https://github.com/namkwon/reactdemo/
 
 # The original README.md file is as follows:
 
-<br/><br/>
+<br/>
+############################################################################
+<br/>
+
 # Movie Web App
 
 This is a Movie App built in [ReactJS](http://facebook.github.io/react/index.html).
