@@ -2,10 +2,9 @@
 Fixing issues of 'React Movie Project' for Re:Coded bootcamp-istanbul-2020-mar
 
 # The issues that need to be fixed are:
-=======================================
-1- Making the trailers show up in a row.
-2- Fixing the images with the cast not showing up.
-3- Adding related movies.
+1- Making the trailers show up in a row.\n
+2- Fixing the images with the cast not showing up.\n
+3- Adding related movies.\n
 
 
 
@@ -13,7 +12,7 @@ Fixing issues of 'React Movie Project' for Re:Coded bootcamp-istanbul-2020-mar
 https://github.com/namkwon/reactdemo/
 
 # The original README.md file is as follows:
-==========================================
+
 
 # Movie Web App
 
